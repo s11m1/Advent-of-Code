@@ -15,7 +15,7 @@ there are no corner cases in your input data 🤞
 | Day 8: Treetop Tree House    | ⭐ ️⭐ |
 | Day 9: Rope Bridge           |  ⭐ ️⭐  | 
 | Day 10: Cathode-Ray Tube     |  ⭐ ️⭐ | 
-| Day 11: Monkey in the Middle |   |
+| Day 11: Monkey in the Middle |  ⭐ ️⭐   |
 | Day 12: Hill Climbing Algorithm |   |
 | Day 13: Distress Signal |   |
 | Day 14: Regolith Reservoir |   |
