@@ -21,7 +21,7 @@ there are no corner cases in your input data 🤞
 | Day 14: Regolith Reservoir |  ⭐ ️⭐    |
 | Day 15: Beacon Exclusion Zone |   |
 | Day 16: Proboscidea Volcanium |   |
-| Day 17: Pyroclastic Flow |   |
+| Day 17: Pyroclastic Flow |  ⭐ ️⭐   |
 | Day 18: Boiling Boulders |   |
 | Day 19: Not Enough Minerals |   |
 | Day 20: Grove Positioning System |   |
